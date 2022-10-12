@@ -1,0 +1,79 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.CG-nav-container {
+
+    background-color: #8a2a10;
+    color: white;
+    padding: 10px;
+}
+
+.CG-welcome-container {
+    padding: 20px;
+    display: flex;
+}
+
+.CG-welcome-container img {
+    width: 50%;
+    float: right;
+}
+
+.CG-welcome-container p {
+    text-align: start;
+    font-size: small;
+}
+
+.CG-welcome-container h1 {
+    font-family: 'Lobster', cursive;
+    font-weight: bolder;
+}
+
+.CG-welcome-container h5 {
+    font-size: medium;
+}
+
+.CG-contact-container {
+    padding: 100px;
+    background: url(../images/bg.jpg);
+    background-attachment: fixed;
+    color: white;
+
+}
+
+.CG-contact-container h1 {
+    font-family: 'Lobster', cursive;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+.CG-contact-container button {
+    background-color: #c04724;
+    border-radius: 28px;
+    border: none;
+    color: white;
+    font-family: Arial;
+    font-size: 17px;
+    padding: 5px 20px;
+    margin-top: 10px;
+}
+
+.CG-contact-container p {
+    font-size: smaller;
+}
+
+.CG-services-container h4 {
+    font-family: 'Lobster', cursive;
+    font-weight: bolder;
+}
+
+.CG-services-container p {
+    margin-top: 10px;
+    font-size: small;
+}
+
+.CG-footer-section {
+    background-color: #8a2a10;
+    color: white;
+}
